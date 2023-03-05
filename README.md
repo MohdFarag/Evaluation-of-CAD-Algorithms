@@ -1,8 +1,10 @@
 # Evaluation of CAD Algorithms
 
-Mohamed Ahmed Abdullah Mahmoud Mustafa
+*Mohamed Ahmed Abdullah Mahmoud Mustafa*
 
-March 5, 2023
+**March 5, 2023**
+
+---
 
 ## Introduction
 
