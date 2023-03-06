@@ -16,13 +16,10 @@ The program evaluates and tests some algorithms and finds the best evaluation me
 
 <!-- set image with linke (./Docs/src/rdb005ll.png) -->
 
-![ROC Curve for Image 1](./Docs/src/rdb005ll.png)
-
-![ROC Curve for Image 2](./Docs/src/rdb023ll.png)
-
-![ROC Curve for Image 3](./Docs/src/rdb025ll.png)
-
-![ROC Curve for Image 4](./Docs/src/rdb028rl.png)
+|    |            | 
+|----------|:-------------:|
+![ROC Curve for Image 1](./Docs/src/rdb005ll.png)  |  ![ROC Curve for Image 2](./Docs/src/rdb023ll.png)
+![ROC Curve for Image 3](./Docs/src/rdb025ll.png)  |  ![ROC Curve for Image 4](./Docs/src/rdb028rl.png)
 
 ---
 
